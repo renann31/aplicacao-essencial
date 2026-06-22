@@ -53,8 +53,8 @@ export default function Home() {
           </div>
 
           <div className="md:flex-1">
-            <h1 className="font-spartan text-[#D9D9D9] md:text-[24px] md:font-light">Horário de Funcionamento</h1>
-            <p className="font-spartan text-[#D9D9D9] md:text-[20px] md:font-light "> Seg a Sex, das</p>
+            <h1 className="font-spartan text-[#D9D9D9] md:text-[24px] md:font-light md:mt-1">Horário de Funcionamento</h1>
+            <p className="font-spartan text-[#D9D9D9] md:text-[20px] md:font-light"> Seg a Sex, das</p>
             <p className="font-spartan text-[#D9D9D9] md:text-[20px] md:font-light">09h às 18h</p>
           </div>
         </div>
