@@ -1,0 +1,66 @@
+{
+  "servicos": [
+    {
+      "titulo": "Limpeza e Profilaxia",
+      "texto": "Limpeza profunda dos dentes com remoção de tártaro e polimento.",
+      "imagem": "/servico-1.png"
+    },
+    {
+      "titulo": "Implantes Dentários",
+      "texto": "Reposição de dentes perdidos com tecnologia de ponta e integração óssea.",
+      "imagem": "/servico-3.png"
+    },
+    {
+      "titulo": "Odontologia Infantil",
+      "texto": "Atendimento especializado e acolhedor para as crianças.",
+      "imagem": "/servico-2.png"
+    },
+    {
+      "titulo": "Clareamento Dental",
+      "texto": "Tratamento seguro e eficaz para um sorriso mais branco e brilhante.",
+      "imagem": "/servico-4.png"
+    },
+    {
+      "titulo": "Restaurações",
+      "texto": "Reparação de cáries e danos com materiais de alta qualidade.",
+      "imagem": "/servico-5.png"
+    },
+    {
+      "titulo": "Estética Dental",
+      "texto": "Procedimentos para melhorar a aparência e harmonia do sorriso.",
+      "imagem": "/servico-6.png"
+    }
+  ],
+  "diferenciais": [
+    {
+      "titulo": "Agendamento Flexível",
+      "texto": "Horários convenientes para se adequar á sua rotina familiar."
+    },
+    {
+      "titulo": "Profissionais Certificados",
+      "texto": "Equipe altamente qualificada e atualizada com as melhores práticas."
+    },
+    {
+      "titulo": "Atendimento Humanizado",
+      "texto": "Cada paciente recebe atenção personalizada e cuidado genuíno."
+    },
+    {
+      "titulo": "Tecnologia Moderna",
+      "texto": "Equipamento modernos para diagnósticos precisos."
+    }
+  ],
+  "depoimentos": [
+    {
+      "nome": "Caren Rodrigues",
+      "texto": "Profissionais maravilhosos, Dra. Jucielly foi excepcional no atendimento, tanto no pré-cirúrgico quanto no pós. Realmente um atendimento humanizado e diferenciado. Super recomendo."
+    },
+    {
+      "nome": "Patricia Mattos",
+      "texto": "Profissionais de ponta, atendimento humanizado com respeito ao cliente, dando importância à qualidade a cada procedimento. Dra Juciely, obrigada pela qualidade do seu atendimento."
+    },
+    {
+      "nome": "Hellen Silva",
+      "texto": "Atendimento maravilhoso, super atenciosos desde a recepção até os atendimentos."
+    }
+  ]
+}

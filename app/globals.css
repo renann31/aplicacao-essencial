@@ -5,11 +5,9 @@
   --foreground: #171717;
 }
 
-@theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+@theme {
+  --font-mont: var(--font-montserrat);
+  --font-spartan: var(--font-league-spartan);
 }
 
 @media (prefers-color-scheme: dark) {
