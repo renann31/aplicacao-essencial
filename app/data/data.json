@@ -3,32 +3,38 @@
     {
       "titulo": "Limpeza e Profilaxia",
       "texto": "Limpeza profunda dos dentes com remoção de tártaro e polimento.",
-      "imagem": "/servico-1.webp"
-    },
-    {
-      "titulo": "Implantes Dentários",
-      "texto": "Reposição de dentes perdidos com tecnologia de ponta e integração óssea.",
-      "imagem": "/servico-3.webp"
-    },
-    {
-      "titulo": "Odontologia Infantil",
-      "texto": "Atendimento especializado e acolhedor para as crianças.",
-      "imagem": "/servico-2.webp"
+      "imagem": "/servico-1.webp",
+      "textura": "/texturaServico.svg"
     },
     {
       "titulo": "Clareamento Dental",
       "texto": "Tratamento seguro e eficaz para um sorriso mais branco e brilhante.",
-      "imagem": "/servico-4.webp"
+      "imagem": "/servico-2.webp",
+      "textura": "/texturaServico.svg"
+    },
+    {
+      "titulo": "Implantes Dentários",
+      "texto": "Reposição de dentes perdidos com tecnologia de ponta e integração óssea.",
+      "imagem": "/servico-3.webp",
+      "textura": "/texturaServico.svg"
     },
     {
       "titulo": "Restaurações",
       "texto": "Reparação de cáries e danos com materiais de alta qualidade.",
-      "imagem": "/servico-5.webp"
+      "imagem": "/servico-4.webp",
+      "textura": "/texturaServico.svg"
+    },
+    {
+      "titulo": "Odontologia Infantil",
+      "texto": "Atendimento especializado e acolhedor para as crianças.",
+      "imagem": "/servico-5.webp",
+      "textura": "/texturaServico.svg"
     },
     {
       "titulo": "Estética Dental",
       "texto": "Procedimentos para melhorar a aparência e harmonia do sorriso.",
-      "imagem": "/servico-6.webp"
+      "imagem": "/servico-6.webp",
+      "textura": "/texturaServico.svg"
     }
   ],
   "diferenciais": [

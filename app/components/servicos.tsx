@@ -24,7 +24,15 @@ const Servicos = () => {
         <div className="md:grid md:grid-cols-2 md:space-y-4.5 z-10">
           {servicos.map((servico, index) => (
             <div key={index} className="md:flex md:flex-row md:gap-1.5 xl:gap-2.5">
-              <div className="md:w-55 xl:w-79 md:h-70 xl:h-98.5 bg-[#759E9E] md:px-12 md:py-2 xl:px-14.75 xl:py-14.25 md:text-center md:leading-8 md:rounded-4xl" key={index}>
+
+              <div 
+                className="md:w-55 xl:w-79 md:h-70 xl:h-98.5 bg-[#759E9E] md:px-12 md:py-2 xl:px-14.75 xl:py-14.25 md:text-center md:leading-8 md:rounded-4xl"
+                style={{
+                  backgroundImage: `url(${servico.textura})`,
+                  backgroundSize: "cover",
+                  backgroundPosition: "center",
+                }}
+              >
                 <h1 className="font-spartan text-[#D9D9D9] md:text-[26px] xl:text-[30px] md:font-semibold md:mb-6">{servico.titulo}</h1>
                 <p className="font-spartan text-[#D9D9D9] md:text-[26px] xl:text-[30px] md:font-extralight md:leading-5.5 xl:leading-9">{servico.texto}</p>
               </div>
