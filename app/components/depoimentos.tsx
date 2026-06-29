@@ -13,7 +13,7 @@ const Depoimentos = () => {
         alt="linha-2"
         width={1800}
         height={330}
-        className="absolute object-cover rotate-24 -translate-y-1/2 translate-x-1/5 z-0 pl-120"
+        className="absolute object-cover rotate-24 -translate-y-1/2 translate-x-1/6 z-0 pl-120 overflow-x-hidden"
       ></Image>
 
       {/* LINHA-3 */}

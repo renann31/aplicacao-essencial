@@ -9,7 +9,7 @@ import NavBar from "./components/navBar";
 export default function Home() {
 
   return (
-    <div className="relative hidden md:block">
+    <div className="relative hidden md:block overflow-x-hidden">
 
       <div className="absolute inset-0">
         <div className="absolute inset-0 bg-white/90" />
